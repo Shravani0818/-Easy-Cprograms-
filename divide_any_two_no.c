@@ -3,9 +3,10 @@ void main()
 {
     int a,b,divide;
     printf("enter first number:");
-    scanf(" %d",&a);
+    scanf("%d",&a);
      printf("enter second number:");
-    scanf (" %d",&b);
+    scanf("%d",&b);
     divide=a/b;
-    printf(" sum=%d",divide);
+    printf("sum=%d",divide);
 }
+
